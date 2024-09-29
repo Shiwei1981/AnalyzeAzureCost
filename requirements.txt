@@ -3,3 +3,12 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+pandas==2.1.4
+azure-storage-blob
+azure-mgmt-costmanagement
+azure-identity
+azure-mgmt-consumption
+requests
+regex
+numpy==1.26.4
+
